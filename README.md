@@ -7,13 +7,12 @@ Flutter Developer with **2+ years** of experience in building high-performance m
 - **Flutter & Dart** (2+ years)  
 - **State Management:** Bloc  
 - **Dependency Injection:** Get_it  
-- **Functional Programming:** dartz  
 - **Navigation:** Go_router  
-- **Database Management:** PostgreSQL, Supabase
+- **Database Management:** SQLite, PostgreSQL, Firebase
 -  **Responsive UI:** Sizer
 - **Data Handling:** JSON parsing, optimization for large datasets  
 - **Architecture Patterns:** Clean Architecture, Repository Pattern, Use Cases  
-- **Additional Experience:** Java, C++, asynchronous programming, multithreading, reverse engineering  
+- **Additional Experience:** Java , asynchronous programming, multithreading, reverse engineering.  
 
 ---
 
@@ -48,5 +47,5 @@ Motivated to contribute to long-term, high-impact projects while continuing to g
 ---
 
 ## 📫 Contact  
-📧 alexander@example.com *(replace with your email)*  
+📧 abraman.coding@gmail.com
 🔗 [LinkedIn](#) • [GitHub](#)  
