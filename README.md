@@ -18,7 +18,7 @@ Flutter Developer with **2+ years** of experience in building high-performance m
 
 ## 🚀 Projects  
 
-### [Nutrilens](https://play.google.com/store/apps/details?id=com.yourapp.nutrilens)  
+### [Nutrilens](https://play.google.com/store/apps/details?id=com.ezzo.nutrilens)  
 Nutrition and food insight application developed entirely in Flutter.  
 - Implemented Bloc for reactive UI updates and data consistency.
 - Optimized app for performance with multithreading database reading.
